@@ -3,3 +3,6 @@ site_description:
 site_author: Lostin-Tianyi
 site_url:
 repo_url:
+nav:
+- home:
+  - home: index.md
