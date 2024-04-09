@@ -1,8 +1,8 @@
 site_name: 天依的御用厨房
 site_description: 某不知名锦衣卫的小网站
 site_author: Lostin-Tianyi
-site_url:
-repo_url:
+site_url: https://Lostin-Tianyi.github.io
+repo_url: https://github.com/Lostin-Tianyi/Lostin-Tianyi.github.io
 
 nav:
 - home:
