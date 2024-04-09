@@ -92,7 +92,7 @@ markdown_extensions:
 
 # 下面的是需要自定义的内容，请不要修改上方的内容，上面都是在开启各种插件和功能
 
-site_name: 文档的名称 # 设置文档名称
+site_name: 天依的御用厨房 # 设置文档名称
 copyright: Copyright &copy; Lostin-Tianyi # 左下角的版权声明
 
 # nav:
