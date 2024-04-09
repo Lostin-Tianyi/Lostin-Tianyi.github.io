@@ -9,13 +9,13 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-  #- navigation.tabs
-  #- navigation.prune
-  #- navigation.indexes
-  #- toc.follow
+  - navigation.tabs
+  - navigation.prune
+  - navigation.indexes
+  - toc.follow
   - navigation.top
-  #- search.suggest
-  #- content.code.copy
+  - search.suggest
+  - content.code.copy
 nav:
 - home:
   - home: index.md
