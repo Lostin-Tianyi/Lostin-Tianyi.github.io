@@ -9,7 +9,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-  #- navigation.tabs
+  - navigation.tabs
   #- navigation.prune
   #- navigation.indexes
   #- toc.follow
