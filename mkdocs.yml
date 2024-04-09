@@ -3,6 +3,19 @@ site_description: 某不知名锦衣卫的小网站
 site_author: Lostin-Tianyi
 site_url: https://Lostin-Tianyi.github.io
 repo_url: https://github.com/Lostin-Tianyi/Lostin-Tianyi.github.io
+theme:
+  name: material
+  language: zh
+  icon:
+    repo: fontawesome/brands/github
+  features:
+  #- navigation.tabs
+  #- navigation.prune
+  #- navigation.indexes
+  #- toc.follow
+  - navigation.top
+  #- search.suggest
+  #- content.code.copy
 nav:
 - home:
   - home: index.md
