@@ -117,11 +117,14 @@ extra:
     social:
         - icon: fontawesome/brands/github
           #link: https://github.com/271374667
+          link: https://github.com/Lostin-Tianyi/Lostin-Tianyi.github.io/tree/main
           name: GitHub
         - icon: fontawesome/brands/bilibili
           #link: https://space.bilibili.com/282527875
+          link: https://space.bilibili.com/36081646
           name: Bilibili
         - icon: material/email
           #link: Python调包侠:<271374667@qq.com>
+          link: gmail:<tianyiluo20120712@gmail.com>
           name: Email
 
