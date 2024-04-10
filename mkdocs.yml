@@ -105,11 +105,14 @@ copyright: Copyright &copy; Lostin-Tianyi # 左下角的版权声明
 #       - interface/1.md
 
 plugins:
-    - mkdocstrings:
-          handlers:
-              python:
-                  paths: [src]
-    - search # 搜索插件
+#  - mkdocs-static-i18n:
+#      input_dir: docs
+
+  - mkdocstrings:
+        handlers:
+            python:
+                paths: [src]
+  - search # 搜索插件
     # - offline # 离线本地搜索，和navigation.instant不能同时启用
 
 extra:
