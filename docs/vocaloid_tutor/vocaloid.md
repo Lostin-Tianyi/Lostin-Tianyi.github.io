@@ -1,7 +1,9 @@
 # 这里分享一些vocaloid知识
 
-[VOCAKEY-愿你唱出心中的歌 [VOCAKEY\] (gimovo.com)](https://gimovo.com/VOCALOID KEY/vocakey.info/index.html)
+[vocaloid学习版下载1号网站](https://gimovo.com/VOCALOID KEY/vocakey.info/index.html)
 
-[VOCAKEY-愿你唱出心中的歌 [VOCAKEY-愿你唱出心中的歌\]](https://vocakey.top/)
+[vocaloid学习版下载2号网站](https://vocakey.top/)
 
-[vsqx.top](https://www.vsqx.top/)
+[调音知识学习+工程文件下载](https://www.vsqx.top/)
+
+[641i130/ddb-extraction: Extract the samples of a DDB Vocaloid file. (github.com)--声库解包程序](https://github.com/641i130/ddb-extraction)
