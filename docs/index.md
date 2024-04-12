@@ -14,7 +14,7 @@ hide:
 
 IP属地湖南
 
-中术~~单推~~人
+中术 ~~单推~~ 人
 
 ~~其实成分很复杂~~
 
@@ -57,4 +57,8 @@ O神8级老玩家
 ## 关于网站
 
 网站基于 [MkDocs :octicons-link-external-16:](https://squidfunk.github.io/mkdocs-material/)，部署于 GitHub Pages。
+
+旨在推动中术的发展，让更多人唱出自己心中的歌
+
+欢迎各位分享自己的资料，发起Pull Request或者是提出Issue
 

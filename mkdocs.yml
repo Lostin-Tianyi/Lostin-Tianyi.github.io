@@ -98,17 +98,18 @@ copyright: Copyright &copy; Lostin-Tianyi # 左下角的版权声明
 nav:
  - 主页: index.md
  - vocaloid一体机教程:
+    -绪: vocaloid_tutor/intro.md
     -调: vocaloid_tutor/vocaloid.md
     -词: vocaloid_tutor/lyrics.md
     -曲: vocaloid_tutor/music_compose.md
     -绘: vocaloid_tutor/picture.md
 # - vocaloid教程: vocaloid_tutor/vocaloid/
- - 日记:
-     - 2024年:
-        -4月:
-          -9日: diary/2024/4/2024.4.9.md
-          -10日: diary/2024/4/2024.4.10.md
-          -11日: diary/2024/4/11.md
+# - 日记:
+#     - 2024年:
+#        -4月: diary/2024/April.md
+#          -9日: diary/2024/4/2024.4.9.md
+#          -10日: diary/2024/4/2024.4.10.md
+#          -11日: diary/2024/4/11.md
 #     - 更多/中文.md
 # - 接口文档:
 #     - interface/1.md
