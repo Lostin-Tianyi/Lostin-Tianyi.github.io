@@ -7,8 +7,9 @@ theme:
         # 切换到亮色
         - media: "(prefers-color-scheme: light)" # 根据系统的颜色模式自动切换
           scheme: default
-          primary: \#00ffcc
-          accent: rgb(255, 0, 0)
+          primary: blue
+          accent: blue
+          #accent: rgb(255, 0, 0)
           toggle:
               icon: material/weather-night
               name: 切换到暗色模式
