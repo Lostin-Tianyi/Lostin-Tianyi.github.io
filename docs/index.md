@@ -1,6 +1,8 @@
 ---
 hide:
   - navigation
+
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=AOVMig58Ovuu2AnD7IJTeE1sDXwL6m8s9KHWeeFrQm8&cl=ffffff&w=0&h=0"></script>
 ---
 # 欢迎光临！
 
