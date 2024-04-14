@@ -3,6 +3,9 @@ hide:
   - navigation
 
 ---
+---
+comments: true
+---
 # 欢迎光临！
 
 ## 你好呀
@@ -62,5 +65,15 @@ O神8级老玩家
 旨在推动中术的发展，让更多人唱出自己心中的歌
 
 欢迎各位分享自己的资料，发起Pull Request或者是提出Issue
+
+[//]: # (---)
+
+[//]: # (!!! coffee "The End")
+
+[//]: # ()
+[//]: # ([:material-coffee-outline: 点杯咖啡慢慢读]&#40;&#41;{ .md-button .md-button--primary })
+
+[//]: # ()
+[//]: # (---)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=AOVMig58Ovuu2AnD7IJTeE1sDXwL6m8s9KHWeeFrQm8&cl=ffffff&w=0&h=0"></script>
