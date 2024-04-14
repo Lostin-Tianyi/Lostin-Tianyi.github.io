@@ -2,7 +2,6 @@
 hide:
   - navigation
 
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=AOVMig58Ovuu2AnD7IJTeE1sDXwL6m8s9KHWeeFrQm8&cl=ffffff&w=0&h=0"></script>
 ---
 # 欢迎光临！
 
@@ -64,3 +63,4 @@ O神8级老玩家
 
 欢迎各位分享自己的资料，发起Pull Request或者是提出Issue
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=AOVMig58Ovuu2AnD7IJTeE1sDXwL6m8s9KHWeeFrQm8&cl=ffffff&w=0&h=0"></script>
