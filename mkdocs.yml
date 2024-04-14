@@ -16,7 +16,7 @@ theme:
         # 切换到暗色
         - media: "(prefers-color-scheme: dark)"
           scheme: slate
-          primary: rgb(0,0,0)
+          primary: blue
           accent: blue
           toggle:
               icon: material/weather-sunny
@@ -104,6 +104,7 @@ nav:
     -曲: vocaloid_tutor/music_compose.md
     -绘: vocaloid_tutor/picture.md
     -MMD: vocaloid_tutor/mikumikudance.md
+ - 测试: misc/playground.md
 # - vocaloid教程: vocaloid_tutor/vocaloid/
 # - 日记:
 #     - 2024年:
