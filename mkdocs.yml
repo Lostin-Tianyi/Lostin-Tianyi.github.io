@@ -8,8 +8,8 @@ theme:
     # 切换到亮色
     - media: "(prefers-color-scheme: light)" # 根据系统的颜色模式自动切换
       scheme: default
-      primary: blue
-      accent: blue
+      primary: '#66ccff' # 深蓝色
+      accent: red
       #accent: rgb(255, 0, 0)
       toggle:
         icon: material/weather-night
@@ -19,7 +19,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue
-      accent: blue
+      accent: orange
       toggle:
         icon: material/weather-sunny
         name: 切换到亮色模式
